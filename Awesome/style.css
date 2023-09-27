@@ -1,0 +1,62 @@
+header{
+    background-color: rgb(158, 85, 226);
+    color: white;
+}
+.nav-link{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.biryozu{
+    margin-top: 90px;
+}
+.bosh2{
+    margin-top: 30px;
+}
+
+.biryozu h1{
+font-size: 55px;
+}
+.biryozu button{
+width: 200px;
+height: 40px;
+}
+.bosh2{
+    background-color: white;
+    color: black;
+}
+.tort-blok p{
+margin-left: 30px;
+} 
+.btncha{
+ margin-left: 450px;
+ margin-top: 100px;
+ background-color: antiquewhite;
+ border-radius: 24px;
+}
+.bor{
+    border-left: 10px solid aliceblue;
+    border-right: 5px solid aliceblue;
+}
+.bor:hover{
+   transform: translateY(-50px) ;
+   cursor: pointer;
+}
+.birodam{
+    transform: translateY(-20px);
+    transform: translateX(-50px);
+
+}
+.pst{
+    background-image: url('./ver.png')  ;
+    background-repeat: no-repeat
+    ;background-size: cover;
+}
+.blokc{
+    box-shadow: 0 4px 25px rgb(14 36 49 / 15%);
+    margin-top: 15px;    
+
+}
+
+.blokc:hover{
+    transform: translateX(30px);
+}
